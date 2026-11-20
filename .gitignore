@@ -1,0 +1,4 @@
+fifo_sim
+*.vcd
+*.log
+*.o
